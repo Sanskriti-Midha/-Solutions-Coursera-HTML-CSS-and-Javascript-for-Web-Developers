@@ -9,3 +9,5 @@ Solutions to the Coursera course titled "HTML, CSS, and Javascript for Web Devel
 
 [Module 4 Output](https://sanskriti-midha.github.io/-Solutions-Coursera-HTML-CSS-and-Javascript-for-Web-Developers/Module4_Solution)
 
+
+[Module 5 Output](https://sanskriti-midha.github.io/-Solutions-Coursera-HTML-CSS-and-Javascript-for-Web-Developers/Module5_Solution)
